@@ -1,0 +1,21 @@
+# Ignore everything
+# *
+
+# But not these files...
+# !.gitignore
+# !crowsnest.conf
+# !mcu.cfg
+# !moonraker.conf
+# !octoeverywhere.conf
+# !overrides.cfg
+# !printer.cfg
+# !variables.cfg
+# !crowsnest.conf
+# !mobileraker.conf
+# !octoeverywhere-system.cfg
+# !octoeverywhere.conf
+# !eddypz.cfg
+# !save_variables.cfg
+# !local_config/
+config_backups/
+K-ShakeTune_results/
